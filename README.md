@@ -24,7 +24,11 @@ This is a simple chat server application built using Python's socket module and 
     python server.py
     ```
 
-2. Connect clients to the server by running `client.py`.
+2. Connect clients to the server by running:
+
+    ```bash
+    python client.py
+    ```
 
 3. Start chatting!
 
