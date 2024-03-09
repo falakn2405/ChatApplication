@@ -1,4 +1,4 @@
-# Chat Server
+# Client Server
 
 This is a simple chat server application built using Python's socket module and Tkinter for the graphical user interface (GUI). The server allows multiple clients to connect simultaneously and exchange messages in a chat room-like environment.
 
